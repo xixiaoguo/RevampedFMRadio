@@ -87,5 +87,12 @@
             android:launchMode="singleTask" >
         </activity>
     </application>
+         <application>
+        <meta-data
+            android:name="max_aspect"
+            android:value="4.0" />
+        <meta-data
+            android:resizeableActivity="true" />
+    </application>
 
 </manifest>
