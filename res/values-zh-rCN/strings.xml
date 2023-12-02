@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">FM 电台</string>
+    <string name="app_name">收音机</string>
     <string name="toast_station_searched">搜索到的可收听电台数量：</string>
     <string name="toast_cannot_search">搜不到可收听的电台。</string>
     <string name="optmenu_speaker">扬声器</string>
@@ -26,7 +26,7 @@
     <string name="toast_sdcard_insufficient_space">SD 卡存储空间不足！</string>
     <string name="toast_recorder_internal_error">录音器发生内部错误！</string>
     <string name="btn_save_recording">保存</string>
-    <string name="btn_discard_recording">舍弃</string>
+    <string name="btn_discard_recording">放弃</string>
     <string name="edit_recording_name_hint">请在此处输入文件名</string>
     <string name="already_exists">已存在</string>
     <string name="not_available">当前无法收听</string>
@@ -43,7 +43,7 @@
     <string name="fm_over_start_record">开始录音</string>
     <string name="fm_over_record_list">已保存的录音</string>
     <string name="fm_station_list_menu_refresh">刷新</string>
-    <string name="fm_no_headset_text">要开始收听，请插上耳机（用作天线）。</string>
+    <string name="fm_no_headset_text">请插上耳机后开始收听（用作天线）。</string>
     <string name="station_title">电台</string>
     <string name="station_searching_tips">正在搜索电台</string>
     <string name="station_empty_text">未找到任何电台</string>
@@ -51,10 +51,10 @@
     <string name="seconds_label">秒</string>
     <string name="timer_default">00</string>
     <string name="record_title">录音</string>
-    <string name="record_notification_message">目前正在录音</string>
+    <string name="record_notification_message">正在录音</string>
     <string name="stop_record">停止录音</string>
     <string name="save_dialog_title">要保存录音吗？</string>
-    <string name="save_dialog_caption">要收听录音，请打开 Play 音乐应用。</string>
+    <string name="save_dialog_caption">要播放录音，请打开 Play 音乐应用。</string>
     <string name="favorites">收藏</string>
     <string name="rename">重命名</string>
     <string name="station_rename_hint">输入电台名称</string>
